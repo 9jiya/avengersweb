@@ -1,0 +1,19 @@
+.container{
+    text-align: center;
+    background-color: aqua;
+    height: 800px;
+}
+#myCarousel{
+    background-color: cornflowerblue;
+    height: 800px;
+}
+body {
+    text-align: center;
+}
+img {
+    width: 40%;
+    height: 40%;
+}
+p{
+    font-size: 50px;
+}
